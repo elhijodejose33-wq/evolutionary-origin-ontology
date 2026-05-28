@@ -84,7 +84,7 @@ python3 validate.py
 
 For an exhaustive, 30-question rigorous epistemological deep dive exploring the application of this framework onto *Surveillance Capitalism*, *Consumer Credit*, and *Civil Religion*, please visit the official manifesto page:
 
-👉 **[Read the Full ONTOLOGY.md Documentation Here](./ONTOLOGY.md)**
+👉 **[Read the Full ONTOLOGY.md Documentation Here](ontology.md)**
 
 ### 7. Inversion is the Dominant Human-System Condition
 The operational world is inverted: it systematically uses sacred or universal language to sustain what directly contradicts the sacred (e.g., externalizing the temple, postponing liberation to an afterlife).
