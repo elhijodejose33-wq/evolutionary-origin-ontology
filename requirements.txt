@@ -1,0 +1,19 @@
+# requirements.txt
+# Evolutionary Origin Ontology Dataset
+# ---------------------------------------------------------------------------
+# Local validation for this repository is intentionally dependency-free.
+#
+# The repository's validate.py script relies exclusively on the Python Standard
+# Library. No third-party packages are required to validate JSONL structure,
+# schema integrity, or line-by-line dataset formatting.
+#
+# IMPORTANT:
+# - Do not add dependencies here unless the local validation pipeline changes.
+# - The Hugging Face dataset loader imports `datasets`, but that dependency is
+#   supplied by the Hugging Face dataset runtime when the loader is executed in
+#   that environment.
+# - For optional local development of dataset_loader.py, install `datasets`
+#   manually in a separate development environment rather than making it a
+#   required repository dependency.
+#
+# External dependencies: none.
