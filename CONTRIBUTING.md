@@ -173,3 +173,107 @@ Submit proposed additions as Markdown in the following structure:
 **The Official Discourse (The Illusion):** [The rationalized, institutional narrative of the status quo.]
 
 **The Structural Distortion (The Practice):** [The raw, hidden mechanism of power, legibility, scarcity, extraction, or contradiction.]
+```
+
+For multiple proposed entries, repeat the structure for each phenomenon.
+
+Do not submit entries as essays. Do not submit loose bullet points. Do not submit only titles.
+
+⸻
+
+## 8. Pull Request Requirements
+
+Every pull request should include:
+
+| Requirement | Description |
+|---|---|
+| Clear PR title | Example: `Add 12 governance-law crossroads on municipal austerity` |
+| Category label | Indicate the primary domain: Economics, Governance, Technology, Ethics, Ecology, Knowledge, Religion, or Infrastructure. |
+| Entry count | State how many entries are being added or revised. |
+| Redundancy check | Confirm that you searched the existing matrix for duplicates. |
+| Source basis | Provide citations, archival references, primary-source links, or a concise note explaining the historical basis. |
+| Ontological note | Explain which inversion is being exposed: separation, captured life-energy, administered scarcity, false unity, or externalized temple. |
+
+⸻
+
+## 9. Style Guide
+
+The tone of the matrix must remain:
+
+- academically rigorous
+- historically grounded
+- structurally precise
+- non-sentimental
+- non-partisan
+- non-generic
+- uncompromising toward false names
+- careful about factual claims
+- hostile to abstraction that hides bodies
+
+Use dense, direct prose. Every sentence must do analytical work.
+
+### Avoid
+
+- slogans
+- moral grandstanding
+- partisan shorthand
+- vague anti-system language
+- mystical language without structural content
+- Wikipedia-style definitions
+- entries that merely describe a phenomenon without exposing the contradiction
+
+### Prefer
+
+- “The system calls X by the name Y, while operationally doing Z.”
+- “The mechanism converts A into B under the cover of C.”
+- “The official discourse claims universal principle, but enforcement is selective along lines of D.”
+- “The practice turns a baseline of Life into a rent stream, risk score, eligibility gate, or administrative dependency.”
+
+⸻
+
+## 10. Revision Standard
+
+Maintainers may request revisions if an entry is:
+
+- too broad
+- too vague
+- historically unsupported
+- rhetorically strong but mechanically weak
+- duplicative
+- insufficiently tied to the Illusion/Practice structure
+- written as opinion rather than structural analysis
+- missing the hidden mechanism of power
+
+A rejected entry is not a rejected contributor. It is a demand for sharper naming.
+
+⸻
+
+## 11. Validation Before Submission
+
+Run the validation script before opening a pull request:
+
+```bash
+python validate.py
+```
+
+The validator checks structural consistency, JSONL formatting where applicable, and required fields. It does not replace philosophical judgment. Passing validation means the entry is syntactically acceptable; it does not mean the entry has ontological force.
+
+⸻
+
+## 12. Contributor Ethic
+
+This project is not built by spectators.
+
+It is built by embodied persons who understand that systems persist because they are fed by attention, silence, compliance, labor, prestige, and false names.
+
+To contribute is to participate in the withdrawal of nourishment from the Inversion.
+
+Name carefully.
+
+Name truthfully.
+
+Name in a way that returns the hidden body, the hidden debt, the hidden hunger, the hidden worker, the hidden land, the hidden temple, and the hidden brother back into view.
+
+> The correct name is not an ornament.
+>
+> It is the beginning of liberation.
