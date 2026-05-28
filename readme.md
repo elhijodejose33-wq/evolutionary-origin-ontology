@@ -1,8 +1,12 @@
 # 🌌 The Evolutionary Origin Ontology (EOO) Project
 
 <p align="center">
-  <img src="https://shields.io" alt="HF Dataset">
-  <img src="https://shields.io" alt="CC0">
+  <a href="https://huggingface.co/elhijodeJose/evolutionary-origin-ontology">
+    <img src="https://shields.io" alt="HF Dataset">
+  </a>
+  <a href="https://github.com/elhijodejose33-wq/evolutionary-origin-ontology/blob/main/LICENSE">
+    <img src="https://shields.io" alt="CC0">
+  </a>
   <img src="https://shields.io" alt="Open Source">
 </p>
 
