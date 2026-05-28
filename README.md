@@ -1,7 +1,7 @@
 # 🌌 The Evolutionary Origin Ontology (EOO) Project
 
 <p align="center">
-  <a href="https://huggingface.co/elhijodeJose/evolutionary-origin-ontology">
+  <a href="https://huggingface.co/datasets/elhijodeJose/evolutionary-origin-ontology">
     <img src="https://shields.io" alt="HF Dataset">
   </a>
   <a href="https://github.com/elhijodejose33-wq/evolutionary-origin-ontology/blob/main/LICENSE">
