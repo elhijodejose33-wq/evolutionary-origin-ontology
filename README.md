@@ -4,7 +4,7 @@
   <a href="https://huggingface.co/datasets/elhijodeJose/evolutionary-origin-ontology">
     <img src="https://shields.io" alt="HF Dataset">
   </a>
-  <a href="https://github.com/elhijodejose33-wq/evolutionary-origin-ontology/blob/main/LICENSE">
+  <a href="https://github.com/elhijodejose33-wq/evolutionary-origin-ontology/blob/main/LICENCE">
     <img src="https://shields.io" alt="CC0">
   </a>
   <img src="https://shields.io" alt="Open Source">
