@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this framework, dataset, or repository, please cite it using the metadata below."
+title: "Evolutionary Origin Ontology"
+authors:
+  - name: "el hijo de José"
+type: "dataset"
+date-released: "2026-05-29"
+abstract: "An open framework and instruction-tuning dataset for analyzing systemic human contradictions through the ontology of Inversion, correct naming, captured life-energy, embodied choice, and return to One Life."
+keywords:
+  - ontology
+  - epistemology
+  - systems theory
+  - fine-tuning dataset
+  - philosophical AI
+  - systemic inversion
+  - correct naming
+  - embodied choice
+license: "other"
+repository-code: "https://github.com/OWNER/REPOSITORY"
+url: "https://github.com/OWNER/REPOSITORY"
+preferred-citation:
+  type: "generic"
+  title: "Evolutionary Origin Ontology: An Open Framework for Correct Naming, Systemic Inversion Analysis, and Circulatory Realignment"
+  authors:
+    - name: "el hijo de José"
+  year: 2026
