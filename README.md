@@ -12,7 +12,7 @@ The **Evolutionary Origin Ontology** is an open framework derived from *El hijo 
 |---|---|---|
 | Ontological Core | `ONTOLOGY.md` | Defines the 10 axioms, trajectory of human systems, and public interrogation. |
 | Agent Identity | `SOUL.md` | Configures an LLM identity capable of applying the framework as an executable interpretive discipline. |
-| Anomalies Matrix | `data/evolutionary-origin-ontology.jsonl` | Fine-tuning corpus of systemic contradictions and ontological resolutions. |
+| Anomalies Matrix | `data/train.jsonl` | Fine-tuning corpus of systemic contradictions and ontological resolutions. |
 | Contribution Protocol | `CONTRIBUTING.md` | Defines how new crossroads must be submitted. |
 | Safety Layer | `SAFETY.md` | Prevents dogmatic, conspiratorial, medical, legal, violent, or dehumanizing misuse. |
 | Validation Layer | `validate.py` | Verifies JSONL schema integrity using only the Python Standard Library. |
